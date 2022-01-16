@@ -1,3 +1,6 @@
 let vue = new Vue({
-    el: "#myApp"
+    el: "#myApp",
+    data: {
+        message: "Hello World!"
+    }
 })
